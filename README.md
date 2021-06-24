@@ -71,6 +71,3 @@ Heap management scheme is implemented using using a doubly linked list and the f
 ![img8](images/8.png)
 
 ![img9](images/9.png)
-
-## Video Explanation
-https://drive.google.com/file/d/1VdUknZDEFc48lA_O-nD_NUDsi-O3Ivlp/view?usp=sharing
